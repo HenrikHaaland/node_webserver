@@ -1,0 +1,12 @@
+{
+    "name": "simple-web-server",
+    "version": "1.0.0",
+    "description": "A simple Node.js web server with an HTML page, CSS, and a JSON API.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
